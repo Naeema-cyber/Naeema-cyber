@@ -5,7 +5,8 @@ AI / Machine Learning Engineer & Data Specialist
 ---
 
 ### Profile Stats
-Profile Views • GitHub Followers • GitHub Stars 
+Profile Views • GitHub Followers • GitHub Stars
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Naheemah14&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Naheemah14)
 [![GitHub Followers](https://img.shields.io/github/followers/Naheemah14?label=Followers&style=social)](https://github.com/Naheemah14?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Naheemah14?affiliations=OWNER&style=social)](https://github.com/Naheemah14?tab=repositories)
