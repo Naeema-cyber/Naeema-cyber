@@ -12,7 +12,7 @@ Profile Views • GitHub Followers • GitHub Stars
 [![GitHub Stars](https://img.shields.io/github/stars/Naheemah14?affiliations=OWNER&style=social)](https://github.com/Naheemah14?tab=repositories)
 
 
-Welcome! I’m Adebiyi Naheemot Adenike, an AI / Machine Learning Engineer focused on solving **real-world problems** in Agriculture, Telecom, and Public Sector. My core work spans **ML model development, context aware chatbots, deep learning, and deployable AI systems**.  
+Welcome! I’m an Artificial Intelligence / Machine Learning Engineer focused on solving **real-world problems** in Agriculture, Telecom, and Public Sector. My core work spans **ML model development, context aware chatbots, deep learning, and deployable AI systems**.  
 
 ---
 
