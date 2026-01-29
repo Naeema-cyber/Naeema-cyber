@@ -12,7 +12,7 @@ Profile Views • GitHub Followers • GitHub Stars
 [![GitHub Stars](https://img.shields.io/github/stars/Naheemah14?affiliations=OWNER&style=social)](https://github.com/Naheemah14?tab=repositories)
 
 
-Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving **real-world problems** in Agriculture, Telecom, and Public Sector. My core work spans **data analysis, ML model development, deep learning, and deployable AI systems**.  
+Welcome! I’m Adebiyi Naheemot Adenike, an AI / Machine Learning Engineer focused on solving **real-world problems** in Agriculture, Telecom, and Public Sector. My core work spans **ML model development, context aware chatbots, deep learning, and deployable AI systems**.  
 
 ---
 
@@ -20,7 +20,8 @@ Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving
 - End-to-end Machine Learning pipelines  
 - Deep Learning model development (CNNs, Computer Vision)  
 - Model evaluation, optimization & deployment  
-- Feature engineering & data preprocessing  
+- Feature engineering & data preprocessing 
+- Retrieval Augmentation Generation (RAG) that is context aware  
 - AI integration into production workflows  
 - Applied ML solutions for real-world engineering challenges  
 
@@ -31,7 +32,7 @@ Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving
 ### 🧑‍💻 Programming & Tools
 - Python, Jupyter Notebook  
 - Git & GitHub  
-- Pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn 
 
 ### 🤖 Machine Learning & Data
 - Scikit-learn, XGBoost, LightGBM  
@@ -39,32 +40,39 @@ Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving
 - Feature engineering & selection  
 - Model training, validation & evaluation  
 
-### 🧠 Deep Learning & Computer Vision
+### 🧠 Deep Learning & LLMS
 - Neural Networks, CNNs  
 - Image classification & segmentation  
 - PyTorch  
-- Transfer learning for real-world datasets  
+- Transfer learning for real-world datasets
+- Large Language Models(LLMs)
+- Prompt Engineering
+- Fine-tuning (PEFT concepts)
+- Embeddings & Vector Search
+- RAG Pipelines 
 
 ### 🧩 AI Engineering & Deployment
 - Model serialization & inference  
 - API-based ML services  
-- Integrating AI models into applications  
-- End-to-end ML product pipelines  
+- Integrating AI models into applications
+- Integrating Multi-Agents into an LLM  
+- End-to-end AI product Engineering
 
 ---
 
 ## 🧪 What You'll Find in My Repositories
-- Machine Learning & Deep Learning projects  
+- Machine Learning & Deep Learning projects
+- LLM, RAG & Prompt Engineering experiments 
 - Computer Vision & image-based AI experiments  
 - AI-powered prediction systems  
 - Data analysis & model evaluation notebooks  
-- Real-world problem-solving prototypes  
+- Real-world problem-solving prototypes
 
 ---
 
 ## 🎓 Education
-- Self-taught AI / ML practitioner with project-based learning  
-- Background in Python, Data Analysis & Engineering workflows  
+**3MTT NITDA**
+Course: AI/ML Engineering 
 
 ---
 
@@ -72,21 +80,26 @@ Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving
 - Advanced Deep Learning architectures  
 - Transfer learning & model optimization  
 - Computer Vision pipelines for agriculture & industry  
-- Deployment and scaling of ML systems  
+- Deployment and scaling of ML systems
+- LLM fine-tuning & evaluation
+- Advanced Prompt Engineering
+- Vector databases & semantic search
+- RAG system design & optimization
+- AI system scalability & monitoring 
 
 ---
 
 ## 🧠 Engineering Philosophy
 - Build from **data → model → deployment**  
-- Focus on **production-ready AI solutions**  
-- Combine **software engineering** with modern ML  
+- Focus on **production-ready AI solutions**   
 - Optimize for **performance, scalability & real-world impact**  
 - Learn fast, test often, ship continuously  
 
 ---
 
 ## 🤝 Open To
-- AI / ML Engineering Opportunities  
+- AI / ML Engineering Opportunities
+- LLM & RAG projects 
 - Deep Learning & Computer Vision projects  
 - Applied ML for Agriculture, Telecom & Public Sector  
 - Open Source Collaboration & Hackathons  
@@ -94,7 +107,7 @@ Welcome to my GitHub! I’m an AI / Machine Learning Engineer focused on solving
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [your-linkedin](#)  
-- Email: your-email@example.com  
+- LinkedIn: [www.linkedin.com/in/naheemot-adebiyi](#)  
+- Email: naeemaadenike@gmail.com  
 
 🚀 I’m intentionally growing into a world-class AI / ML Engineer by building applied AI systems, experimenting with deep learning, and delivering real-world impact. Explore, star, and collaborate!
